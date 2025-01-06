@@ -1,0 +1,1 @@
+# Analisador_de_Sentimento_Social
