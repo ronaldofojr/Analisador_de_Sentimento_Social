@@ -1,7 +1,7 @@
 # Analisador_de_Sentimento_Social
 
 ## Descrição
-O SocialSentimentAnalyzer é um projeto que realiza a coleta de tweets relacionados a um termo específico, seguido por uma análise de sentimentos para determinar se os tweets possuem tom **positivo**, **negativo** ou **neutro**. Além disso, os resultados são visualizados por meio de gráficos para facilitar a interpretação.
+É um projeto que realiza a coleta de tweets relacionados a um termo específico, seguido por uma análise de sentimentos para determinar se os tweets possuem tom **positivo**, **negativo** ou **neutro**. Além disso, os resultados são visualizados por meio de gráficos para facilitar a interpretação.
 
 ## Funcionalidades
 - Coleta de tweets utilizando a API do Twitter.
@@ -18,11 +18,11 @@ O SocialSentimentAnalyzer é um projeto que realiza a coleta de tweets relaciona
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/yanfurlan/socialsentimentanalyzer.git
+   git clone https://github.com/ronaldofojr/Analisador_de_Sentimento_Social.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd socialsentimentanalyzer
+   cd Analisador_de_Sentimento_Social
    ```
 3. Crie um ambiente virtual e ative-o:
    ```bash
@@ -51,13 +51,5 @@ O SocialSentimentAnalyzer é um projeto que realiza a coleta de tweets relaciona
 
 3. Insira o termo de busca e veja os resultados da análise de sentimentos.
 
-## Estrutura do Projeto
-```
-SocialSentimentAnalyzer/
-|-- main.py
-|-- config.py
-|-- requirements.txt
-|-- README.md
-```
 
 
